@@ -124,3 +124,4 @@ dmypy.json
 
 # Credential files
 my_creds.yaml
+db_creds.yaml
